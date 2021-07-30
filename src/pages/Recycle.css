@@ -1,0 +1,36 @@
+ .recycle {
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+  }
+  .map {
+    display: flex;
+    margin-left:150px;
+    padding:auto;
+    align-items: top;
+    justify-content: center;
+
+  }
+  .box1.search {
+    display: fixed;
+  
+    justify-items:auto;
+    align-items: top;
+    justify-content: top;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+  }
+  .search input {
+      margin-top: 20px;
+      width: 350px;
+      height: 40px;
+      font-size: 20px;
+      padding-left:10px;
+  }
+  .box1 {
+      margin-left: 10px;
+      padding-left:10px;
+  }
